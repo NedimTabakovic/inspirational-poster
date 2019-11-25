@@ -7,3 +7,14 @@
     width: 500px;
 }
 
+.part-1, .part-2 {
+    position: absolute;
+    color: rgba(255, 217, 121, 0.94);
+}
+.poster {
+    position:relative;
+    height: 500px;
+}
+.part-2 {
+    bottom: 5px;
+}
