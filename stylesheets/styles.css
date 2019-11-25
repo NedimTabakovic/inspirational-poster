@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.picture-frame {
+    height: 500px;
+    width: 500px;
+}
+
